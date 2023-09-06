@@ -6,7 +6,7 @@ Generate regular reports for city officials looking to publicize and improve the
 ![](Images/citi-bike-station-bikes.jpg)
 
 As the new lead analyst for the New York Citi Bike program, I am now responsible for overseeing the largest bike-sharing program in the United States. In my new role, I will be expected to generate regular reports for city officials looking to publicize and improve the city program.
-Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the Citi Bike Data [](https://citibikenyc.com/system-data)
+Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the Citi Bike Data [(https://citibikenyc.com/system-data)]
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so my first task on the job is to build a set of data reports to provide the answers.
 
 ### Instructions
@@ -26,7 +26,7 @@ Visualization 2: Yearly Ridership Count by User and Rideable Type:
 
 **Dashboard 2:** Station Popularity and Ride Characteristics
 Visualization 1: Top 10 Starting Stations by Ride Count, Differentiated by User Type:
-- Which starting station is the most popular among casual users, and how does that compare to members' preference?
+- Which starting station is the most popular among casual users, and how does that compare to members' preferences?
 Visualization 2: Top 10 Ending Stations by Ride Count, Differentiated by User Type:
 - Are there any ending stations that are significantly more favored by members than by casual riders?
 Visualization 3: Average Distance Traveled in Miles:
@@ -63,4 +63,4 @@ Visualization 3: Daily Ride Counts by July 2022 - July 2023:
 
 Finally, I created my final presentation
 - Created a Tableau story that brings together the visualizations, requested maps, and dashboards.
-[](https://public.tableau.com/app/profile/jannatul.hashi/viz/MyFirstViz_16938834061370/Story1)
+[(https://public.tableau.com/app/profile/jannatul.hashi/viz/MyFirstViz_16938834061370/Story1)]
