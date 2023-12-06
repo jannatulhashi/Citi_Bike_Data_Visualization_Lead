@@ -61,5 +61,6 @@ Visualization 3: Daily Ride Counts by July 2022 - July 2023:
 
 ![](Images/Dashboard_6.png)
 
-Finally, I created my final presentation
+Finally, I created my final presentation using Tableau
+
 [Created a Tableau story that brings together the visualizations, requested maps, and dashboards](https://public.tableau.com/app/profile/jannatul.hashi/viz/MyFirstViz_16938834061370/Story1)
