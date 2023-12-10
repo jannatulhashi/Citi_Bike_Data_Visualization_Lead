@@ -1,5 +1,6 @@
 # Citi Bike Data & Visualization Lead
-Generate regular reports for city officials looking to publicize and improve the city program in the United States.
+Analyzing and visualizing New York Citi Bike data to deliver insights on ridership and station usage,
+enabling city officials to make informed decisions for the city program's enhancement using Tableau.
 
 ## Background
 
