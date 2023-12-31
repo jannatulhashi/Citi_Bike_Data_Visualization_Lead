@@ -1,4 +1,4 @@
-# Citi Bike Data & Visualization Lead
+# Citi Bike Data Visualization Using Tableau
 Analyze and visualize New York Citi Bike data to deliver insights on ridership and station usage,
 enabling city officials to make informed decisions for the city program's enhancement using Tableau.
 
