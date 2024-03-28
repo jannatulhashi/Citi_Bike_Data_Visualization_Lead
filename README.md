@@ -15,7 +15,7 @@ My task in this assignment is to aggregate the data found in the Citi Bike Trip 
 1: Design 2–5 visualizations for each discovered phenomenon (4–10 total). I have the flexibility to work within a timespan of my preference. If needed, I can also combine multiple datasets from various periods.
 Here are some questions I might want to address:
 
-**Dashboard 1:** Ridership Growth and Patterns
+#### **Dashboard 1:** Ridership Growth and Patterns
 Visualization 1: Yearly Ridership Count by Station and User Type:
 - Which station consistently sees the highest ridership, and does user type (member vs. casual) influence this trend?
 Visualization 2: Yearly Ridership Count by User and Rideable Type:
@@ -33,7 +33,7 @@ Visualization 2: Yearly Ridership Count by User and Rideable Type:
 
 **Weekly Ridership Count by User Type Over the Years:** Fluctuations here can showcase seasonality, the effectiveness of promotional campaigns, or external events affecting ridership. Regular spikes could indicate weekday commuters, while weekend peaks might suggest leisure riders.
 
-**Dashboard 2:** Station Popularity and Ride Characteristics
+#### **Dashboard 2:** Station Popularity and Ride Characteristics
 Visualization 1: Top 10 Starting Stations by Ride Count, Differentiated by User Type:
 - Which starting station is the most popular among casual users, and how does that compare to members' preferences?
 Visualization 2: Top 10 Ending Stations by Ride Count, Differentiated by User Type:
@@ -53,7 +53,7 @@ This dashboard offers insights into the most popular stations and the characteri
 
 **Average Distance Traveled in Miles:** This can inform about the typical use-case scenarios. Shorter distances might imply usage for errands or intra-city travel, while longer distances could suggest recreational use or lack of public transport options.
 
-**Dashboard 3:** Bike Utility and User Behavior
+#### **Dashboard 3:** Bike Utility and User Behavior
 Visualization 1: Average Trip Duration by User Type and Rideable Type:
 - Do regular members tend to ride for longer durations than casual riders on specific rideable types?
 Visualization 2: Top 20 Most Ridden Bikes by Distance (in Miles) Between Stations:
@@ -74,7 +74,7 @@ This dashboard dives deep into how bikes are utilized and the behavioral pattern
 
 2: Create the following visualizations for city officials:
 
-**Map 1:** Popular Starting Bike Stations by Ride Count
+#### **Map 1:** Popular Starting Bike Stations by Ride Count
 - Which geographic region of the city consistently serves as the most popular starting point for riders?
 
 ![](Images/Dashboard_4.png)
@@ -91,7 +91,7 @@ This dashboard dives deep into how bikes are utilized and the behavioral pattern
 
 **Visualization Clarity:** The diverse color palette for stations ensures easy differentiation and understanding of ride activities.
 
-**Map 2:** Popular Ending Bike Stations by Ride Count
+#### **Map 2:** Popular Ending Bike Stations by Ride Count
 - Are there any areas in the city where rides tend to end more frequently, perhaps indicating popular destinations or points of interest?
 
 ![](Images/Dashboard_5.png)
@@ -106,7 +106,7 @@ This dashboard dives deep into how bikes are utilized and the behavioral pattern
 
 **Route Popularity:** By observing the endpoints, we can infer some of the most popular routes or destinations for classic bike riders.
 
-**Map 3:** Dynamic Popularity of Bike Stations Over Time
+#### **Map 3:** Dynamic Popularity of Bike Stations Over Time
 - How have the popular bike stations shifted between July 2022 and July 2023, and can we attribute this shift to any specific city developments or events?
 
 ![](Images/Dashboard_6.png)
